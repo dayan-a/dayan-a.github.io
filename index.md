@@ -1,6 +1,5 @@
 ## Welcome Dayana 
 
-Imagen de un Robot:
 
 ![machine learning](https://prod-discovery.edx-cdn.org/media/course/image/4c70ad9b-9602-49af-bf00-83fa4bf47708-dc4566d15250.small.jpg)
 
