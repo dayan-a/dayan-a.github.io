@@ -2,7 +2,8 @@
 
 Imagen de un Robot:
 
-![Robot](https://notibomba.com/wp-content/uploads/2020/05/robots-en-ruanda-contra-el-coronavirus.jpg)
+<img src="python.jpg"
+style="float: center; margin-center: 10px;" />
 
 
 ### AIOS
