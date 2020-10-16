@@ -1,10 +1,10 @@
 ## Welcome Dayana 
 
-Here's an image of a drag racer in action:
+Imagen de un Robot:
 
-![Drag Racing](https://notibomba.com/wp-content/uploads/2020/05/robots-en-ruanda-contra-el-coronavirus.jpg)
+![Robot](https://notibomba.com/wp-content/uploads/2020/05/robots-en-ruanda-contra-el-coronavirus.jpg)
 
-Move along.
+
 ### AIOS
 Los primeros sistemas operativos de IA para lograr el éxito técnico y masivo del mercado utilizaron una forma de impresión cerebral que copió con precisión la red neuronal/conexo de un cerebro. Estos tipos de AIOS fueron restringidos en los años 2070 y 80 y prohibidos en 2106, sin embargo formaron la base para el primer...
 Templated
