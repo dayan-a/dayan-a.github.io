@@ -3,7 +3,8 @@
 Imagen de un Robot:
 
 <img src="python.jpg"
-style="float: center; margin-center: 10px;" />
+alt="python icon"
+style="float: center; margin-center: 20px;" />
 
 
 ### AIOS
