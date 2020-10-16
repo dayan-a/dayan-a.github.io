@@ -2,9 +2,7 @@
 
 Imagen de un Robot:
 
-<img src="python.jpg"
-style="float: left; margin-center: 20px;" />
-
+![machine learning](https://prod-discovery.edx-cdn.org/media/course/image/4c70ad9b-9602-49af-bf00-83fa4bf47708-dc4566d15250.small.jpg)
 
 ### AIOS
 Los primeros sistemas operativos de IA para lograr el éxito técnico y masivo del mercado utilizaron una forma de impresión cerebral que copió con precisión la red neuronal/conexo de un cerebro. Estos tipos de AIOS fueron restringidos en los años 2070 y 80 y prohibidos en 2106, sin embargo formaron la base para el primer...
