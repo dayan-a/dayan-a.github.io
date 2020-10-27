@@ -12,10 +12,11 @@ Los AIOS con plantillas son anteriores a los sistemas operativos impresos, pero 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
-  chat-title="Concepto_SO"
+  <chat-title="Concepto_SO"
   agent-id="686958c0-2e9a-4690-9919-53e6b431f352"
   language-code="es"
 ></df-messenger>
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -75,4 +76,5 @@ Los AIOS con plantillas son anteriores a los sistemas operativos impresos, pero 
         }
     }
 </script>
+
 
